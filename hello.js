@@ -1,1 +1,1 @@
-console.log("Olá, mundo! Meu primeiro arquivo de estudos de JS para QA.")
+console.log("Hello! Meu primeiro arquivo de estudos de JS para QA.")
